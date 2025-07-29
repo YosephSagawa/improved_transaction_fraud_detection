@@ -1,1 +1,9 @@
-# Add your project dependencies here
+pandas
+numpy
+scikit-learn
+imblearn
+xgboost
+shap
+matplotlib
+seaborn
+jupyter
